@@ -20,9 +20,9 @@ This guide explains how to apply Direct2D effects in Delphi using a clean and re
   Set input images for the effect.
   Chain method calls for cleaner code.
   Use multiple property types (Single, Integer, Boolean).
-  Safely render effects without memory leaks.
-
-![MS Doc](https://learn.microsoft.com/en-us/windows/win32/direct2d/effects-overview)  
+  Safely render effects without memory leaks.  
+  
+[MS Doc](https://learn.microsoft.com/en-us/windows/win32/direct2d/effects-overview)  
 
  **Solution:**  
  you can use our under-dev unit in your own-risk!

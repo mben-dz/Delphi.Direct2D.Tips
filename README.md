@@ -1,7 +1,7 @@
 
 ## 📚 Delphi Direct2D Tips:
 
-Welcome to **Delphi Direct2D Tips**, a plain-text guide with essential tips for building and improving Direct2D apps using Delphi. This guide includes tips based on our previous Expirement to help you solve specific issues.
+Welcome to **Delphi Direct2D Tips**, a plain-text guide with essential tips for building and improving Direct2D apps using Delphi. This guide includes tips based on our previous Experiment to help you solve specific issues.
 
 ---
 
